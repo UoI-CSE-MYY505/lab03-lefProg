@@ -2,7 +2,7 @@
 
 ## UoI-CSE-MYY505 lab03
 
-## First-Name Last-Name
+## ELEFTHERIOS BARMPAS
 
 **TODO - Update your name in this readme. Leave 1 space after the ## to preserve the text formating (markdown)**
 
@@ -13,12 +13,12 @@
 Convert an RGB888 image to an RGB565 image.
 
 Read lab03.pdf for a full description.
- 
+
 ## Files to work on
-* `lab03.s` 
+* `lab03.s`
 * `README.md` to add your name<br/>
-      
-## Running 
+
+## Running
 * To run the program interactively, start Ripes and load lab03.s
 * To run the test execute the python script Lab03Test.py
 
